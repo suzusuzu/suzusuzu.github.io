@@ -1,0 +1,17 @@
+name: Build
+
+on: [push]
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build index.html
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y pandoc
+          pandoc -f markdown -t html5 -s --css "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" --metadata title="Sotetsu Suzugamine" index.md > index.html
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Build index.html

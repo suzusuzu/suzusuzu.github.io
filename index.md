@@ -1,0 +1,36 @@
+# About me
+
+- Name
+    - 鈴ヶ嶺 聡哲 / Sotetsu Suzugamine
+- Blog
+    - [suzuzusu日記](https://suzuzusu.hatenablog.com/)
+- Github
+    - [suzusuzu](https://github.com/suzusuzu)
+- Twitter
+    - [suzu_3_14159265](https://twitter.com/suzu_3_14159265)
+- Kaggle
+    - [suzu](https://www.kaggle.com/sotetsusuzugamine)
+- Qiita
+    - [suzu_](https://qiita.com/suzusuzu)
+- LinkedIn
+    - [Sotetsu Suzugamine](https://www.linkedin.com/in/sotetsu-suzugamine/)
+- Award
+    - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
+    - [SCIS&ISIS2018 Best Paper Award](https://www.uec.ac.jp/news/prize/2018/20181213_1496.html)
+        - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
+    - [令和元年度目黒会賞](https://megurokai.jp/web_magazine/commendation200325/)
+- Presentation
+    - [NTT Tech Conference #5](https://ntt-developers.github.io/ntt-tech-conference/05/)
+        - [macOS の仮想化技術について 〜 virtualization-rs Rust bindings for Virtualization.framework 〜](https://www.slideshare.net/td-nttcom/macos-virtualizationrs-rust-bindings-for-virtualizationframework)
+    - [ついにGPU搭載! Azure Stack Hub with GPUの実力は?!](https://hybridcloud.connpass.com/event/204287/)
+        - [【たぶん日本初導入！】Azure Stack Hub with GPUの性能と機能紹介](https://www.slideshare.net/td-nttcom/azure-stack-hub-with-gpu-244289645)
+- Contest
+    - [AWS GameDay Online APN Cup.vol1 3位](https://aws.amazon.com/jp/blogs/psa/aws-gameday-online-apn-cup-vol1-2020/)
+- Hackathon
+    - [第3回全脳アーキテクチャハッカソン 奨励賞、スポンサー賞(ふるや総合会計事務所賞)](https://wba-initiative.org/2755/)
+    - ソニーハッカソン ～GO FOR IT～ 最優秀賞
+    - GREE Camp優勝
+- Online article
+    - [【連載】徹底研究! ハイブリッドクラウド [24] Azure Stack Hub with GPUに見るエッジコンピューティングの未来像](https://news.mynavi.jp/itsearch/article/cloud/5562)
+    - [当時のx86は要件を満たしていなかった 要件・仕組みから見るmacOSの仮想化技術の変遷](https://logmi.jp/tech/articles/324461)
+    - [macOS 11 Big Surで追加されたVM作成の高レベルAPI Virtualization.frameworkの性能はDockerとほぼ同じ](https://logmi.jp/tech/articles/324504)
