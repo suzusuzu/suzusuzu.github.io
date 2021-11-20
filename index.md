@@ -16,7 +16,7 @@
     - [Sotetsu Suzugamine](https://www.linkedin.com/in/sotetsu-suzugamine/)
 - Award
     - [JACIII BEST PAPER AWARD 2021](https://www.fujipress.jp/award/jaciii-best-paper-and-young-researcher-awards-2021/)
-        - ![](./img/jaciii.jpg)
+        - <img src="./img/jaciii.jpg" width="500" />
     - [令和元年度目黒会賞](https://megurokai.jp/web_magazine/commendation200325/)
     - [SCIS&ISIS2018 Best Paper Award](https://www.uec.ac.jp/news/prize/2018/20181213_1496.html)
         - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
