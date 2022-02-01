@@ -26,6 +26,8 @@
         - [macOS の仮想化技術について 〜 virtualization-rs Rust bindings for Virtualization.framework 〜](https://www.slideshare.net/td-nttcom/macos-virtualizationrs-rust-bindings-for-virtualizationframework)
     - [ついにGPU搭載! Azure Stack Hub with GPUの実力は?!](https://hybridcloud.connpass.com/event/204287/)
         - [【たぶん日本初導入！】Azure Stack Hub with GPUの性能と機能紹介](https://www.slideshare.net/td-nttcom/azure-stack-hub-with-gpu-244289645)
+    - 映像情報メディア学会 2021年冬季大会 ［企画セッション4］MLOpsに基づくAI/ML実運用最前線
+        - [クラウド上で実現するリアルタイムネットワークトラフィックのMLOps基盤](https://www.ite.or.jp/winter/2021/program/feature/#S4)
 - Contest
     - [AWS GameDay Online APN Cup.vol1 3位](https://aws.amazon.com/jp/blogs/psa/aws-gameday-online-apn-cup-vol1-2020/)
 - Hackathon
