@@ -38,3 +38,10 @@
     - [【連載】徹底研究! ハイブリッドクラウド [24] Azure Stack Hub with GPUに見るエッジコンピューティングの未来像](https://news.mynavi.jp/itsearch/article/cloud/5562)
     - [当時のx86は要件を満たしていなかった 要件・仕組みから見るmacOSの仮想化技術の変遷](https://logmi.jp/tech/articles/324461)
     - [macOS 11 Big Surで追加されたVM作成の高レベルAPI Virtualization.frameworkの性能はDockerとほぼ同じ](https://logmi.jp/tech/articles/324504)
+- Corporate Blog
+    - [【日本初導入】 AWS Outposts ラックを徹底解説 第1回 〜導入・利用方法の概要〜](https://engineers.ntt.com/entry/2022/03/15/102459)
+    - [【日本初導入】AWS Outposts ラックを徹底解説 第3回 〜TerraformによるPrivate EKS構築〜](https://engineers.ntt.com/entry/2022/03/17/094254)
+    - [Rustで実装するmalloc](https://engineers.ntt.com/entry/2021/12/21/125459)
+    - [コンピュータビジョン分野における世界最高峰の国際会議ICCV21の論文&コード紹介（前編）](https://engineers.ntt.com/entry/2021/11/08/150149)
+    - [コンピュータビジョン分野における世界最高峰の国際会議ICCV21の論文&コード紹介（後編）](https://engineers.ntt.com/entry/2021/11/12/100757)
+    - [MIRU2021参加レポート](https://engineers.ntt.com/entry/2021/08/06/145238)
