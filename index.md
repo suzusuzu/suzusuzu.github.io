@@ -22,6 +22,9 @@
         - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [HCCJP(ハイブリッドクラウド研究会) 第31回勉強会](https://hybridcloud.connpass.com/event/242589/)
+        - [【日本初導入】AWSをオンプレで使う！？「AWS Outpostsを用いたIoT/MLシステム」](https://speakerdeck.com/suzusuzusuzu/mlsisutemu)
+    - [NVIDIA GTC CONFERENCE & TRAINING MARCH 21 - 24, 2022 KEYNOTE MARCH 22 アプリケーション開発者向けの大規模GPUプラットフォームのケーススタディ [S41188]](https://www.nvidia.com/ja-jp/gtc/session-catalog/?search.language=1594320459782002LzDW&tab.scheduledorondemand=1583520458947001NJiE#/session/1634898432884001Ixrc)
     - [NTT Tech Conference #5](https://ntt-developers.github.io/ntt-tech-conference/05/)
         - [macOS の仮想化技術について 〜 virtualization-rs Rust bindings for Virtualization.framework 〜](https://www.slideshare.net/td-nttcom/macos-virtualizationrs-rust-bindings-for-virtualizationframework)
     - [ついにGPU搭載! Azure Stack Hub with GPUの実力は?!](https://hybridcloud.connpass.com/event/204287/)
