@@ -42,6 +42,9 @@
     - [当時のx86は要件を満たしていなかった 要件・仕組みから見るmacOSの仮想化技術の変遷](https://logmi.jp/tech/articles/324461)
     - [macOS 11 Big Surで追加されたVM作成の高レベルAPI Virtualization.frameworkの性能はDockerとほぼ同じ](https://logmi.jp/tech/articles/324504)
 - Corporate Blog
+    - [AWS Outpostsで実現するオンプレデータレイク](https://engineers.ntt.com/entry/2022/08/09/082249)
+    - [コンピュータビジョン分野における世界最高峰の国際会議CVPR2022からワークショップの模様を紹介（前編）](https://engineers.ntt.com/entry/2022/07/28/090254)
+    - [コンピュータビジョン分野における世界最高峰の国際会議CVPR2022の論文紹介（後編）](https://engineers.ntt.com/entry/2022/08/01/090230)
     - [【日本初導入】 AWS Outposts ラックを徹底解説 第1回 〜導入・利用方法の概要〜](https://engineers.ntt.com/entry/2022/03/15/102459)
     - [【日本初導入】AWS Outposts ラックを徹底解説 第3回 〜TerraformによるPrivate EKS構築〜](https://engineers.ntt.com/entry/2022/03/17/094254)
     - [Rustで実装するmalloc](https://engineers.ntt.com/entry/2021/12/21/125459)
