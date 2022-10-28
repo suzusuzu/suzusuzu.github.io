@@ -22,6 +22,8 @@
         - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [Open NetworkIng Conference Japan 2022](https://onic.jp/program-detail/#s_11)
+        - [AWS/AzureのHybridCloud製品によるエッジコンピューティング](https://speakerdeck.com/suzusuzusuzu/azurenohybridcloudzhi-pin-niyoruetusikonhiyuteinku-onic2022)
     - [HCCJP(ハイブリッドクラウド研究会) 第31回勉強会](https://hybridcloud.connpass.com/event/242589/)
         - [【日本初導入】AWSをオンプレで使う！？「AWS Outpostsを用いたIoT/MLシステム」](https://speakerdeck.com/suzusuzusuzu/mlsisutemu)
     - [NVIDIA GTC CONFERENCE & TRAINING MARCH 21 - 24, 2022 KEYNOTE MARCH 22 アプリケーション開発者向けの大規模GPUプラットフォームのケーススタディ [S41188]](https://www.nvidia.com/ja-jp/gtc/session-catalog/?search.language=1594320459782002LzDW&tab.scheduledorondemand=1583520458947001NJiE#/session/1634898432884001Ixrc)
