@@ -40,9 +40,13 @@
     - ソニーハッカソン ～GO FOR IT～ 最優秀賞
     - GREE Camp優勝
 - Online article
+    - [1秒の遅延が損失に――クラウド中央処理の課題3つ　解決策は「エッジAI」　システム構築のポイントは？](https://www.itmedia.co.jp/news/articles/2301/10/news012.html)
+    - [エッジコンピューティング最前線 “地産地消“で大きな価値を生むデータ NTT Comが開発した「エッジAI」の可能性](https://special.nikkeibp.co.jp/atclh/NXT/23/delltechnologies0113/)
     - [【連載】徹底研究! ハイブリッドクラウド [24] Azure Stack Hub with GPUに見るエッジコンピューティングの未来像](https://news.mynavi.jp/itsearch/article/cloud/5562)
     - [当時のx86は要件を満たしていなかった 要件・仕組みから見るmacOSの仮想化技術の変遷](https://logmi.jp/tech/articles/324461)
     - [macOS 11 Big Surで追加されたVM作成の高レベルAPI Virtualization.frameworkの性能はDockerとほぼ同じ](https://logmi.jp/tech/articles/324504)
+- Online seminar
+    - [ 1/24（火）開催オンラインセミナー「エッジAIに最適なハイブリッドでのコンテナ運用基盤とは？」](https://active.nikkeibp.co.jp/atcl/ev/seminar/22/12/05/00055/index.html)
 - Corporate Blog
     - [AWS Outpostsで実現するオンプレデータレイク](https://engineers.ntt.com/entry/2022/08/09/082249)
     - [コンピュータビジョン分野における世界最高峰の国際会議CVPR2022からワークショップの模様を紹介（前編）](https://engineers.ntt.com/entry/2022/07/28/090254)
