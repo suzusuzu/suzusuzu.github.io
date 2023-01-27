@@ -22,6 +22,8 @@
         - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [CloudNative Days Tokyo 2022](https://event.cloudnativedays.jp/cndt2022)
+        - [AWS Outpostsで始めるエッジコンピューティング](https://speakerdeck.com/suzusuzusuzu/cndt2022-aws-outpoststeshi-meruetusikonhiyuteinku)
     - [Open NetworkIng Conference Japan 2022](https://onic.jp/program-detail/#s_11)
         - [AWS/AzureのHybridCloud製品によるエッジコンピューティング](https://speakerdeck.com/suzusuzusuzu/azurenohybridcloudzhi-pin-niyoruetusikonhiyuteinku-onic2022)
     - [HCCJP(ハイブリッドクラウド研究会) 第31回勉強会](https://hybridcloud.connpass.com/event/242589/)
