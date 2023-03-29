@@ -22,6 +22,7 @@
         - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [Azure Hybrid Cloud Day 2023](https://msevents.microsoft.com/event?id=57716160)
     - [CloudNative Days Tokyo 2022](https://event.cloudnativedays.jp/cndt2022)
         - [AWS Outpostsで始めるエッジコンピューティング](https://speakerdeck.com/suzusuzusuzu/cndt2022-aws-outpoststeshi-meruetusikonhiyuteinku)
     - [Open NetworkIng Conference Japan 2022](https://onic.jp/program-detail/#s_11)
@@ -50,6 +51,10 @@
 - Online seminar
     - [ 1/24（火）開催オンラインセミナー「エッジAIに最適なハイブリッドでのコンテナ運用基盤とは？」](https://active.nikkeibp.co.jp/atcl/ev/seminar/22/12/05/00055/index.html)
 - Corporate Blog
+    - [AWS Outposts サーバーを徹底解説](https://engineers.ntt.com/entry/2023/03/24/095642)
+    - [Local cluster for EKS on AWS Outpostsについて紹介](https://engineers.ntt.com/entry/2022/11/08/080222)
+    - [コンピュータビジョン分野のトップカンファレンスであるECCV2022からワークショップの模様を紹介（前編）](https://engineers.ntt.com/entry/2022/12/09/145410)
+    - [コンピュータビジョン分野のトップカンファレンスであるECCV2022の論文紹介（後編）](https://engineers.ntt.com/entry/2023/02/28/091914)
     - [AWS Outpostsで実現するオンプレデータレイク](https://engineers.ntt.com/entry/2022/08/09/082249)
     - [コンピュータビジョン分野における世界最高峰の国際会議CVPR2022からワークショップの模様を紹介（前編）](https://engineers.ntt.com/entry/2022/07/28/090254)
     - [コンピュータビジョン分野における世界最高峰の国際会議CVPR2022の論文紹介（後編）](https://engineers.ntt.com/entry/2022/08/01/090230)
