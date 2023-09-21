@@ -52,6 +52,7 @@
 - Online seminar
     - [ 1/24（火）開催オンラインセミナー「エッジAIに最適なハイブリッドでのコンテナ運用基盤とは？」](https://active.nikkeibp.co.jp/atcl/ev/seminar/22/12/05/00055/index.html)
 - Corporate Blog
+    - [AWS Outposts Server (Graviton2, Xeon) 電力効率検証](https://engineers.ntt.com/entry/2023/09/21/090204)
     - [Interop Tokyo 2023 〜 L5G x AWS Outpostsサーバーの取り組み紹介 〜](https://engineers.ntt.com/entry/2023/06/16/105025)
     - [AWS Outposts サーバーを徹底解説](https://engineers.ntt.com/entry/2023/03/24/095642)
     - [Local cluster for EKS on AWS Outpostsについて紹介](https://engineers.ntt.com/entry/2022/11/08/080222)
