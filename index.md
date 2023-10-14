@@ -22,6 +22,8 @@
         - ![](https://www.uec.ac.jp/news/prize/2018/images/20181213-1-1.jpg)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [HCCJP(ハイブリッドクラウド研究会) 第46回勉強会](https://hybridcloud.connpass.com/event/296895/)
+        - [Azure Arc x IoT Connect Gatewayを用いたIoTシステム](https://speakerdeck.com/nttcom/iot-systems-with-azure-arc-x-iot-connect-gateway)
     - [Delivering Enterprise AI Services on Multiaccess Edge Computing: Three Perspectives from NTT Group](https://www.nvidia.com/ja-jp/on-demand/session/gtcspring23-s52052/)
     - [Azure Hybrid Cloud Day 2023](https://msevents.microsoft.com/event?id=57716160)
     - [CloudNative Days Tokyo 2022](https://event.cloudnativedays.jp/cndt2022)
