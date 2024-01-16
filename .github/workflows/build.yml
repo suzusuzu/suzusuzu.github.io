@@ -6,12 +6,12 @@ jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Build index.html
         run: |
           sudo apt-get update -y
           sudo apt-get install -y pandoc
-          pandoc -f markdown -t html5 -s --css "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" --metadata title="Sotetsu Suzugamine" --variable=title="" index.md > index.html
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          pandoc -f markdown -t html5 -s --template easy_template.html --metadata title="Sotetsu Suzugamine" --variable=title="" index.md > index.html
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Build index.html

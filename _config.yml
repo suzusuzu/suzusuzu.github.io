@@ -1,0 +1,6 @@
+exclude:
+  - .git
+  - _config.yml
+  - README.md
+  - easy_template.html
+  - index.md
