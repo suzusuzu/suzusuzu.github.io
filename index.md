@@ -8,8 +8,6 @@
     - [suzusuzu](https://github.com/suzusuzu)
 - Twitter
     - [suzu_3_14159265](https://twitter.com/suzu_3_14159265)
-- Kaggle
-    - [suzu](https://www.kaggle.com/sotetsusuzugamine)
 - Qiita
     - [suzu_](https://qiita.com/suzusuzu)
 - LinkedIn
