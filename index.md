@@ -18,6 +18,7 @@
     - [SCIS&ISIS2018 Best Paper Award](https://www.uec.ac.jp/news/prize/2018/20181213_1496.html)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [Embodied AIについて / About Embodied AI](https://speakerdeck.com/nttcom/about-embodied-ai)
     - [HCCJP(ハイブリッドクラウド研究会) 第46回勉強会](https://hybridcloud.connpass.com/event/296895/)
         - [Azure Arc x IoT Connect Gatewayを用いたIoTシステム](https://speakerdeck.com/nttcom/iot-systems-with-azure-arc-x-iot-connect-gateway)
     - [Delivering Enterprise AI Services on Multiaccess Edge Computing: Three Perspectives from NTT Group](https://www.nvidia.com/ja-jp/on-demand/session/gtcspring23-s52052/)
@@ -50,6 +51,8 @@
 - Online seminar
     - [ 1/24（火）開催オンラインセミナー「エッジAIに最適なハイブリッドでのコンテナ運用基盤とは？」](https://active.nikkeibp.co.jp/atcl/ev/seminar/22/12/05/00055/index.html)
 - Corporate Blog
+    - [Interop Tokyo 2024 〜 AWS Outpostsサーバーを用いた5Gメトリクス監視の取り組み紹介 〜](https://engineers.ntt.com/entry/2024/06/12/070413)
+    - [2023年上期のメディアAI PJ勉強会資料を公開](https://engineers.ntt.com/entry/2024/01/12/084647)
     - [サーバレスにおけるRustについて](https://engineers.ntt.com/entry/2023/12/22/092917)
     - [AWS Outposts Server (Graviton2, Xeon) 電力効率検証](https://engineers.ntt.com/entry/2023/09/21/090204)
     - [Interop Tokyo 2023 〜 L5G x AWS Outpostsサーバーの取り組み紹介 〜](https://engineers.ntt.com/entry/2023/06/16/105025)
