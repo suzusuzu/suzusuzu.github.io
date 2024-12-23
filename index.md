@@ -51,6 +51,7 @@
 - Online seminar
     - [ 1/24（火）開催オンラインセミナー「エッジAIに最適なハイブリッドでのコンテナ運用基盤とは？」](https://active.nikkeibp.co.jp/atcl/ev/seminar/22/12/05/00055/index.html)
 - Corporate Blog
+    - [Disk-friendlyな近似最近傍探索手法 DiskANN](https://engineers.ntt.com/entry/202412-diskann/entry)
     - [Interop Tokyo 2024 〜 AWS Outpostsサーバーを用いた5Gメトリクス監視の取り組み紹介 〜](https://engineers.ntt.com/entry/2024/06/12/070413)
     - [2023年上期のメディアAI PJ勉強会資料を公開](https://engineers.ntt.com/entry/2024/01/12/084647)
     - [サーバレスにおけるRustについて](https://engineers.ntt.com/entry/2023/12/22/092917)
