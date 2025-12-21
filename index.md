@@ -52,6 +52,7 @@
 - Online seminar
     - [ 1/24（火）開催オンラインセミナー「エッジAIに最適なハイブリッドでのコンテナ運用基盤とは？」](https://active.nikkeibp.co.jp/atcl/ev/seminar/22/12/05/00055/index.html)
 - Corporate Blog
+    - [Tenstorrentにおけるfused kernel実装と性能評価](https://engineers.ntt.com/entry/20251219-tenstorrent/entry)
     - [LLM推論を支える抽象化転送ライブラリ NVIDIA Inference Xfer Library (NIXL) について](https://engineers.ntt.com/entry/202505-nixl/entry)
     - [CUDA 12.8 における Checkpoint API の概要](https://engineers.ntt.com/entry/202503-cu-checkpoint/entry)
     - [Disk-friendlyな近似最近傍探索手法 DiskANN](https://engineers.ntt.com/entry/202412-diskann/entry)
