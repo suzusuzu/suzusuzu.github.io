@@ -18,6 +18,8 @@
     - [SCIS&ISIS2018 Best Paper Award](https://www.uec.ac.jp/news/prize/2018/20181213_1496.html)
     - [平成29年度目黒会賞](https://megurokai.jp/web_magazine/commendation180326/)
 - Presentation
+    - [Azure Local サミット Vol.2](https://events.nikkeibp.co.jp/event/2026/nxta260623/)
+        - [Azure Local × IOWN APN で実現する拠点間HA構成](https://speakerdeck.com/nttcom/cross-site-ha-architecture-powered-by-azure-local-x-iown-apn-state-management-operational-continuity-and-data-sovereignty-for-the-sovereign-ai-era)
     - [大規模言語モデル学習スケールのためのテレコムユースケース [S71554]](https://www.nvidia.com/ja-jp/gtc/session-catalog/?search.language=1594320459782002LzDW&tab.catalogallsessionstab=16566177511100015Kus#/session/1726042111947001pTvu)
     - [Embodied AIについて / About Embodied AI](https://speakerdeck.com/nttcom/about-embodied-ai)
     - [HCCJP(ハイブリッドクラウド研究会) 第46回勉強会](https://hybridcloud.connpass.com/event/296895/)
