@@ -46,6 +46,7 @@
     - ソニーハッカソン ～GO FOR IT～ 最優秀賞
     - GREE Camp優勝
 - Online article
+    - [データ主権とコストの壁を打ち破る、デル・テクノロジーズとNTTドコモビジネスの「止めないAI基盤」とは](https://www.itmedia.co.jp/enterprise/articles/2610/16/news001.html)
     - [1秒の遅延が損失に――クラウド中央処理の課題3つ　解決策は「エッジAI」　システム構築のポイントは？](https://www.itmedia.co.jp/news/articles/2301/10/news012.html)
     - [エッジコンピューティング最前線 “地産地消“で大きな価値を生むデータ NTT Comが開発した「エッジAI」の可能性](https://special.nikkeibp.co.jp/atclh/NXT/23/delltechnologies0113/)
     - [【連載】徹底研究! ハイブリッドクラウド [24] Azure Stack Hub with GPUに見るエッジコンピューティングの未来像](https://news.mynavi.jp/itsearch/article/cloud/5562)
